@@ -1,0 +1,199 @@
+body{
+    background-color: rgb(202, 228, 219);
+    
+}
+input{
+    height: 3em;
+    width: 25em;
+    border: none;
+    border-width: 1px;
+    border-radius: 5px;
+}
+#notification{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: red;
+    padding: 20px;
+    border: 1px solid blue;
+    display: none;
+}
+
+form{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    gap: 1em;
+    background-color: aqua;
+    padding: 3em;
+    width: 20em;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 2);
+    place-items: center;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+button{
+    height: 3em;
+    width: 25em;
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(65, 114, 121);
+    background-color: aqua;
+    border-radius: 10px;
+}
+log{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    margin-top: 3em;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+text{
+    color: black;
+    font-family: cursive;
+    font-size: medium;
+    margin-bottom: 2em;
+}
+
+header{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 17em;
+    background-color: rgb(86, 119, 119);
+    height: 6em;
+}
+
+.hdl{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 3em;
+    font-family: cursive;
+    font-size: medium;
+}
+
+btn{
+    background-color: rgb(86, 119, 119);
+    padding: 1em;
+    border: solid;
+    border-radius: 5em;
+    border-color: rgb(69, 153, 209);
+}
+bt{
+    padding: 10PX 20px;
+    border: solid;
+    border-radius: 5em;
+    border-color: rgb(69, 153, 209);
+}
+search{
+    margin-top: 2em;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 3em;
+}
+inner{
+    align-items: center;
+    justify-content: center;
+    display: FLEX;
+    margin-top: 3em;
+    gap: 5em;
+}
+h{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: x-large;
+}
+aution{
+    font-family: Tahoma;
+    font-size: xx-large;
+    font-weight: bold;
+    color: rgb(69, 153, 209);
+}
+export{
+    font-family: monospace;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.one{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    gap: 2em;
+}
+how{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    font-family: monospace;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-top: 3em;
+}
+
+list{
+    margin-top: 3em;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 10em;
+}
+
+.all{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    gap: 1em;
+}
+ho{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+.for{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    gap: 2em;
+}
+formm{
+    margin-top: 3em;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 7em;
+}
+
+howw{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.style{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: large;
+    color: rgb(54, 50, 50);
+}
+
+footer{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    background-color: white;
+}
+.buycar{
+    height: 1em;
+    background-color: rgb(202, 228, 219);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
